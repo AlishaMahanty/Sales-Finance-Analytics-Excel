@@ -24,7 +24,7 @@ The core objective was to monitor and evaluate the company's financial health an
 ---
 
 ## 📌 Key Insights Delivered (FY 2021 Focus)
-- The analysis provided management with crucial metrics for strategic decision-making:
+The analysis provided management with crucial metrics for strategic decision-making:
 - Growth: Revealed a significant 204.5% Net Sales growth from FY20 to FY21, with Net Sales climbing to $598.9M.
 - Customer Value: Identified Amazon as the top customer, contributing $82.1M in Net Sales in FY21.
 - Profitability: Highlighted France as the highest-margin market with a 43.2% Gross Margin (GM%).
@@ -44,3 +44,16 @@ This project focuses on the five critical reports necessary for executive Sales 
 | Market Performance vs Target |	Measures actual market sales against the predefined sales targets.	| Identified high performers like Australia, which was 10.5% above target. |
 
 ---
+
+## 📁 Files Included
+- [P&L_Years_Report.pdf](https://github.com/AlishaMahanty/Sales-Finance-Analytics-Excel/blob/main/P%26L_Years_Report.pdf) - P&L performance summary across FY 2019-2021
+- [P&L_Months_Report.pdf](https://github.com/AlishaMahanty/Sales-Finance-Analytics-Excel/blob/main/P%26L_Months_Report.pdf) - Monthly P&L breakdown for detailed trend analysis
+- [P&L_Markets.pdf](https://github.com/AlishaMahanty/Sales-Finance-Analytics-Excel/blob/main/P%26L_Markets.pdf) - Profitability and GM% segmented by market.
+- [Customer_Performance_Report.pdf](https://github.com/AlishaMahanty/Sales-Finance-Analytics-Excel/blob/main/Customer_Performance_Report.pdf) - 	Customer-level sales, growth, and contribution analysis.
+- [Market_Performance_vs_Target_Report.pdf](https://github.com/AlishaMahanty/Sales-Finance-Analytics-Excel/blob/main/Market_Performance_vs_Target_Report.pdf) - Comparison of market sales against strategic targets.
+
+---
+
+## Project Link
+- [Sales_Analytics.xlsx](https://github.com/AlishaMahanty/Sales-Finance-Analytics-Excel/blob/main/Sales_Analytics.xlsx)
+- [Finance_Analytics.xlsx](https://github.com/AlishaMahanty/Sales-Finance-Analytics-Excel/blob/main/Sales_Analytics.xlsx)
