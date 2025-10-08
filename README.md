@@ -5,11 +5,8 @@ This project delivers a comprehensive Sales and Financial Performance Analysis f
 
 ## 🎯 Project Objectives
 The core objective was to monitor and evaluate the company's financial health and sales activities by generating three primary types of executive reports:
-
 1. Financial Reporting (P&L): Create profit and loss statements by Year, Month, and Market to evaluate financial stability.
-
 2. Customer Performance: Deliver an in-depth analysis of customer sales trends, growth, and contribution.
-
 3. Market Strategy: Conduct a detailed comparison of market performance against sales targets to track sales KPIs.
 
 ---
