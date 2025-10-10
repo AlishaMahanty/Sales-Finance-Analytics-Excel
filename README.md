@@ -43,11 +43,11 @@ This project focuses on the five critical reports necessary for executive Sales 
 ---
 
 ## 📁 Files Included
+- [Customer_Performance_Report.pdf](https://github.com/AlishaMahanty/Sales-Finance-Analytics-Excel/blob/main/Customer_Performance_Report.pdf) - 	Customer-level sales, growth, and contribution analysis.
+- [Market_Performance_vs_Target_Report.pdf](https://github.com/AlishaMahanty/Sales-Finance-Analytics-Excel/blob/main/Market_Performance_vs_Target_Report.pdf) - Comparison of market sales against strategic targets.
 - [P&L_Years_Report.pdf](https://github.com/AlishaMahanty/Sales-Finance-Analytics-Excel/blob/main/P%26L_Years_Report.pdf) - P&L performance summary across FY 2019-2021
 - [P&L_Months_Report.pdf](https://github.com/AlishaMahanty/Sales-Finance-Analytics-Excel/blob/main/P%26L_Months_Report.pdf) - Monthly P&L breakdown for detailed trend analysis
 - [P&L_Markets.pdf](https://github.com/AlishaMahanty/Sales-Finance-Analytics-Excel/blob/main/P%26L_Markets.pdf) - Profitability and GM% segmented by market.
-- [Customer_Performance_Report.pdf](https://github.com/AlishaMahanty/Sales-Finance-Analytics-Excel/blob/main/Customer_Performance_Report.pdf) - 	Customer-level sales, growth, and contribution analysis.
-- [Market_Performance_vs_Target_Report.pdf](https://github.com/AlishaMahanty/Sales-Finance-Analytics-Excel/blob/main/Market_Performance_vs_Target_Report.pdf) - Comparison of market sales against strategic targets.
 
 ---
 
